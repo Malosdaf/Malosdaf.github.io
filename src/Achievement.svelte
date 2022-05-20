@@ -4,6 +4,6 @@
 
 <Card>
     <div class="p-8">
-        <img class="w-5/6 mx-auto" src="images/Timeline.svg" alt="Timelime" >
+        <img class="w-2/3 mx-auto" src="images/Timeline.svg" alt="Timelime" >
     </div>
 </Card>

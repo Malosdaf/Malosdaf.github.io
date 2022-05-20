@@ -11,6 +11,7 @@
 	import CoolPeople from "./CoolPeople.svelte";
 	import Credits from "./Credits.svelte";
 	import Achievement from "./Achievement.svelte";
+	import Project from "./Project.svelte";
 </script>
 
 <main>
@@ -27,8 +28,12 @@
 				<h3 use:reveal>Bio</h3>
 				<About/>
 			</FullScreenContainer>
+			<FullScreenContainer>
+				<h3 use:reveal>Project</h3>
+				<Project name="Malosdaf"/>
+			</FullScreenContainer>
 	`		<FullScreenContainer>
-			<h3 use:reveal>Achivement</h3>
+			<h3 use:reveal>Achievement</h3>
 				<Achievement/>
 			</FullScreenContainer>
 			<!-- games -->
