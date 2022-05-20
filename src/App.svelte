@@ -1,14 +1,11 @@
 <script>
 	import { reveal } from "svelte-reveal";
-
-	import Background from "./Background.svelte";
 	import Next_Background from "./Next-Background.svelte";
 	import Logo from "./Logo.svelte";
 	import ScrollHint from "./ScrollHint.svelte";
 	import About from "./Bio.svelte";
 	import FullScreenContainer from "./FullScreenContainer.svelte";
 	import Destiny2Profile from "./Destiny2Profile.svelte";
-	import CoolPeople from "./CoolPeople.svelte";
 	import Credits from "./Credits.svelte";
 	import Achievement from "./Achievement.svelte";
 	import Project from "./Project.svelte";
