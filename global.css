@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-montserrat text-gray-200
+}
+
+a {
+    @apply underline underline-offset-1
+}
+
+h1 {
+    @apply text-9xl
+}
+
+h2 {
+    @apply text-7xl
+}
+
+h3 {
+    @apply text-5xl
+}
+
+h4 {
+    @apply text-3xl
+}
+
+h5 {
+    @apply text-xl
+}
+
+h6 {
+    @apply text-lg
+}
