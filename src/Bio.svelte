@@ -17,7 +17,7 @@
                 <img class="inline h-6" src="images/bootstrap5.svg" alt="bootstrap5">
                 <img class="inline h-6" src="images/netcore.svg" alt="netcore">
                 <img class="inline h-6" src="images/sql.svg" alt="sql">
-                <img class="inline h-6" src="images/arduino.svg" alt="arduino">
+                <img class="inline h-6" src="images/Arduino.svg" alt="Arduino">
             </p>
             <p> IDE:
                 <img class="inline h-6" src="images/clion.svg" alt="clion">
