@@ -1773,10 +1773,6 @@ import {onMount} from "svelte";
         overflow: visible;
     }
 
-    @font-face {
-        font-family: 'iconfont';
-        src: url('iconfont.ttf') format('truetype');
-    }
 
     .bigFont {
         font-size: 150%;

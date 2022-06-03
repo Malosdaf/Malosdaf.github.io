@@ -811,6 +811,13 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 body {
+  background-image: linear-gradient(to top, var(--tw-gradient-stops));
+  --tw-gradient-from: #1f2937;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(31 41 55 / 0));
+  --tw-gradient-to: #111827;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   font-family: Montserrat, sans-serif;
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));

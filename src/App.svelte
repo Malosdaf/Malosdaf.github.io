@@ -1,6 +1,5 @@
 <script>
 	import { reveal } from "svelte-reveal";
-	import Next_Background from "./Next-Background.svelte";
 	import Logo from "./Logo.svelte";
 	import ScrollHint from "./ScrollHint.svelte";
 	import About from "./Bio.svelte";
@@ -9,10 +8,11 @@
 	import Credits from "./Credits.svelte";
 	import Achievement from "./Achievement.svelte";
 	import Project from "./Project.svelte";
+	import Background from "./Background.svelte";
 </script>
 
 <main>
-	<Next_Background/>
+	<Background/>
 	<ScrollHint/>
 
 	<!-- content -->
